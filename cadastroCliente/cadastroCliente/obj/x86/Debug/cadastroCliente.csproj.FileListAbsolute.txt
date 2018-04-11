@@ -1,0 +1,14 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\cadastroCliente\bin\Debug\cadastroCliente.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\cadastroCliente\bin\Debug\cadastroCliente.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\cadastroCliente\obj\x86\Debug\cadastroCliente.Formulario.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\cadastroCliente\obj\x86\Debug\cadastroCliente.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\cadastroCliente\obj\x86\Debug\cadastroCliente.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\cadastroCliente\obj\x86\Debug\cadastroCliente.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\cadastroCliente\obj\x86\Debug\cadastroCliente.pdb
+C:\Users\Aluno_2\Downloads\cadastroCliente\cadastroCliente\obj\x86\Debug\cadastroCliente.exe
+C:\Users\Aluno_2\Downloads\cadastroCliente\cadastroCliente\obj\x86\Debug\cadastroCliente.pdb
+C:\Users\Aluno_2\Downloads\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.exe
+C:\Users\Aluno_2\Downloads\cadastroCliente\cadastroCliente\bin\Debug\cadastroCliente.pdb
+C:\Users\Aluno_2\Downloads\cadastroCliente\cadastroCliente\obj\x86\Debug\cadastroCliente.Formulario.resources
+C:\Users\Aluno_2\Downloads\cadastroCliente\cadastroCliente\obj\x86\Debug\cadastroCliente.Properties.Resources.resources
+C:\Users\Aluno_2\Downloads\cadastroCliente\cadastroCliente\obj\x86\Debug\cadastroCliente.csproj.GenerateResource.Cache
